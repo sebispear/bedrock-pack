@@ -2,9 +2,9 @@
     "format_version": 2,
     "header": {
         "description": "Sebispear's half-decent PVP texture pack",
-        "name": "PVPack v1.6",
+        "name": "PVPack v1.7",
         "uuid": "21cef1fa-71df-4520-9245-fd48f1ae406e",
-        "version": [0, 0, 7],
+        "version": [0, 0, 8],
         "min_engine_version": [ 1, 21, 40 ]
     },
     "modules": [
@@ -12,7 +12,7 @@
             "description": "Sebispear's half-decent PVP texture pack",
             "type": "resources",
             "uuid": "52ce9af7-2486-460f-9c79-f60742820455",
-            "version": [0, 0, 7]
+            "version": [0, 0, 8]
         }
     ]
 }
